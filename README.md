@@ -6,7 +6,7 @@ Launcher oficial de LagnaroK — Servidor Privado de Ragnarok Online 3.
 
 | Plataforma | Archivo | Enlace de descarga |
 | :--- | :--- | :--- |
-| **Windows 10 / 11 (x64)** | `RO3Launcher.exe` (68.5 MB) | [**Descargar RO3Launcher.exe**](https://github.com/k3ldon/Lro3-Cliente/releases/latest/download/RO3Launcher.exe) |
+| **Windows 10 / 11 (x64)** | `RO3Launcher.exe` (71.3 MB) | [**Descargar RO3Launcher.exe**](https://github.com/k3ldon/Lro3-Cliente/releases/latest/download/RO3Launcher.exe) |
 
 También puedes descargar el ejecutable directamente desde la sección de [Releases](https://github.com/k3ldon/Lro3-Cliente/releases/latest) o desde este repositorio.
 
