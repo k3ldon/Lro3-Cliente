@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k3ldon/Lro3/main/docs/assets/lro3-hero.png" alt="LagnaroK / Lro3: Ecosistema y Cliente de Ragnarok Online 3" width="70%">
+  <img src="docs/assets/logo_lagnarok_transparent.png" alt="LagnaroK / Lro3: Ecosistema y Cliente de Ragnarok Online 3" width="280">
 </p>
 
 <h1 align="center">LagnaroK (Lro3) — Cliente y Ecosistema</h1>
